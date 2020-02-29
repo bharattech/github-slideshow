@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our second slide!"
 ---
-Your t ext
+Your text
 Use your left arrow to go back!
